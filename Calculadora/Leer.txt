@@ -1,3 +1,6 @@
 Esta calculadora, se realizo en Tkinter empleando python. 
 Proporciona las operaciones basicas ademas de incluir 
 el elevar al cuadrado un numero y una raiz cuadrada
+
+Video de funcionamiento: 
+https://youtu.be/ObseHl5VUD8
